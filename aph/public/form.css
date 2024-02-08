@@ -1,0 +1,159 @@
+
+.login{
+    margin-top: 154px;
+    
+    background: #191C24;
+    
+    width: 384px;
+
+    height: 357px;
+    padding: 2px;
+
+    text-align: center;}
+    .form{
+        margin-left: 546px;}
+    .h1x{    color: white;}
+.login1{
+    padding: 9px;
+    width: 223px;
+    height: 10px;
+    margin-top: 23px;}
+    .login2{
+        width: 130px;
+        height: 34px;
+        padding: 1px;
+    
+        background: red;
+        margin-top: 23px;}
+
+button {
+    background-color: #0e385d;
+    padding: 15px 45px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+
+    padding-left: 48px;
+    padding-bottom: 15px;
+    padding-right: 42px;
+    padding-top: 15px;
+
+    border-radius: 26px;
+    text-transform: capitalize;
+    margin: auto;
+    display: table;
+    position: relative;
+    transition: all 0.15s;
+    border: none;
+
+}
+.bar{    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: black;
+    border-radius: 40px;
+    color: red;}
+
+.bg-color{background-color: #191C24 !important;
+
+    width: 100%;
+transition: .5s;
+    height: 53px;
+    display: flex;}
+
+
+.s-bar{    height: 26px;
+    width: 221px;
+    margin-left: 23px;
+
+    margin-top: 10px;
+}
+  .f-base  {    text-align: end;
+    transition: .5s;
+    width: 77%;
+    }
+
+.margin{
+    margin-left: 86px;
+    font-size: 20px;
+
+    color: gainsboro;}
+.g-base{
+    margin-left: 23px;
+    margin-top: 7px;}
+.bar1{
+  
+    width: 207px;
+  
+    font-size: 40px;
+    margin-left: 24px;
+}
+.bar2{
+    background: black;
+    color: gainsboro;
+    width: 0px;
+overflow: hidden;
+   position: absolute;
+transition: 0.5s;}
+.sidebar{ 
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: black;
+    border-radius: 40px;
+   }
+.pl{
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 24px;
+}
+.span1{
+    margin-left: 20px;
+}
+.pl:hover{
+
+color: red;
+
+background: linear-gradient(0deg, red, transparent);
+color: white;
+}
+
+.span1:hover{
+    background: linear-gradient(0deg, red, transparent);
+    color: white;}
+.fold{display: flex;
+flex-wrap: wrap;}
+.pl1{
+    margin-left: 57px;
+    color: gray;
+}
+.llo{
+    height: 0px;
+    overflow: hidden;}
+.table{
+    width: 98%;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+th{
+    border: 2px solid;
+    padding-left: 18px;}
+td{
+    border: 2px solid;
+    padding-left: 18px;}
+.container{    width: 75%;
+    margin-left: 20%;
+    text-align: center;
+    padding: 33px;
+}
+.t1{margin-top: 23px;}
+.tbox{    border: 3px solid gray;
+    height: fit-content;
+    padding: 12px;
+    width: 72%;}
+.tablemk{
+    width: 98%;
+    border-collapse: collapse;}
